@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,threadName,dataType,bytes,sentBytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname,IdleTime,Connect
+17:41:55,2338,Login via Travelocity,200,Thread Group 1-1,text,839,0,1,1,0,1,0,shavantha-ThinkPad-X1-Carbon-4th,0,0
